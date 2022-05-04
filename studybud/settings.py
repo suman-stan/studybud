@@ -26,7 +26,7 @@ SECRET_KEY = '7f6d17126e363da9c7e7aed3c79b519aad68c38664839885'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sumanchatbox.herokuapp.com']
 
 
 # Application definition
